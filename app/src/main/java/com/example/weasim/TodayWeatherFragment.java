@@ -10,6 +10,8 @@ import android.view.ViewGroup;
 
 public class TodayWeatherFragment extends Fragment {
 
+    
+
     static TodayWeatherFragment instance;
 
     public static TodayWeatherFragment getInstance() {
